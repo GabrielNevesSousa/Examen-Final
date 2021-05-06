@@ -4,4 +4,4 @@
 ### Hemos ayudado a nuestro compañero que realizaba la pagina web en parte de cogido de la pagina web.
 
 ## A Continuación veras unas pequeñas imagenes de la pagina Web
-
+![captura]()
