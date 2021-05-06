@@ -3,5 +3,4 @@
 
 ### Hemos ayudado a nuestro compañero que realizaba la pagina web en parte de cogido de la pagina web.
 
-## A Continuación veras unas pequeñas imagenes de la pagina Web
-![captura](https://github.com/GabrielNevesSousa/Examen-Final/blob/main/im%C3%A1genes/inicio.PNG?raw=true)
+## Readme de Gabriel Neves
